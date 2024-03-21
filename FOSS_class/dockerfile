@@ -1,0 +1,5 @@
+FROM pdal/pdal:latest
+
+WORKDIR /app
+
+ENTRYPOINT
